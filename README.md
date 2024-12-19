@@ -7,7 +7,7 @@ The augmented datasets were prepared by fitting data into sigmoidal curves using
 The synthesized datasets were prepared by variational autoencoder (VAE) and conditional tabular augmentation (CTGAN) before the learning.
 
 ## Data Explanation
-\models #models
-\other_data #Sterimol, fitting curves
-\result #several selected results (for all graphical results, see the Supporting Information)
-\split #datasets
+\models #models <br/>
+\other_data #Sterimol, fitting curves <br/>
+\result #several selected results (for all graphical results, see the Supporting Information) <br/>
+\split #datasets <br/>
