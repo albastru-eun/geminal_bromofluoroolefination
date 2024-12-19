@@ -10,3 +10,4 @@ The synthesized datasets were prepared by variational autoencoder (VAE) and cond
 \models #models <br/>
 \result #several selected results (for all graphical results, see the Supporting Information) <br/>
 \split #datasets <br/>
+environment.yml #anaconda environment
